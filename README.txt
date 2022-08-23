@@ -10,4 +10,3 @@ the last one was making by me using data from Wikipedia
 
 3. All analysis you find in file Chicago_Taxi.sql where is a several queries with my comments.
 
-It would be great to get some feedback from you. 
